@@ -3,8 +3,8 @@
 **Mentor de esta edición:** Eduardo Esteban Álvarez Castañeda
 
 - LinkedIn: [👾 Eduardo Álvarez Castañeda](https://linkedin.com/in/eduardoalvarezc)
-- Curriculum vitae: [eduardoalvarez.dev](https://resume.eduardoalvarez.dev/)
-- Redes sociales: [proskynete.dev](https://proskynete.dev)
+- Sitio web: [eduardoalvarez.dev](https://eduardoalvarez.dev/)
+- Redes sociales: [links.eduardoalvarez.dev](https://links.eduardoalvarez.dev)
 
 **Ayudante**: Argenis Matos
 
